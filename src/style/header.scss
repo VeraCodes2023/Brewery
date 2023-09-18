@@ -1,0 +1,21 @@
+.header{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    .link{
+        .navIcon{
+            // border: 1px solid red;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0 30px;
+        }
+        p{
+            font-size: 14px;
+            align-self: center;
+        }
+     }
+}

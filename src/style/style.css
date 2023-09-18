@@ -1,0 +1,47 @@
+.header {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.header .link .navIcon {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 30px;
+}
+.header .link p {
+  font-size: 14px;
+  align-self: center;
+}
+
+.form {
+  width: 30%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.form div {
+  margin-top: 20px;
+}
+.form div input {
+  width: 200px;
+  height: 28px;
+}
+body {
+  padding: 0;
+  margin: 0;
+  overflow: scroll;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(27, 26, 26);
+}
+
+/*# sourceMappingURL=style.css.map */

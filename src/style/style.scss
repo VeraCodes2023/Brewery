@@ -1,0 +1,14 @@
+@use "./header.scss";
+@use "./form.scss";
+
+body{
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(27, 26, 26);
+}
